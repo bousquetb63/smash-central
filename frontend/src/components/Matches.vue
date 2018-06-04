@@ -43,7 +43,7 @@ export default {
       popupActivo:false,
       netplayCode:null
     }
-  }, 
+  },
   mounted () {
       this.getAllMatches();
   },

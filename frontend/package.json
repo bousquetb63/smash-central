@@ -13,8 +13,11 @@
     "cors": "^2.8.4",
     "epic-spinners": "^1.0.3",
     "register-service-worker": "^1.0.0",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
+    "vue-socket.io": "^2.1.1-b",
     "vuesax": "^3.0.45",
     "vuex": "^3.0.1"
   },
